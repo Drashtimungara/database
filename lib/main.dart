@@ -6,6 +6,7 @@ import 'package:sqflite/sqflite.dart';
 import 'main.dart';
 
 void main() {
+print("hello");
   // List l=["one","two","three","four","five"];
   // List l1=l.where((element) => element.toString().contains("f")).toList();
   // print(l1);
